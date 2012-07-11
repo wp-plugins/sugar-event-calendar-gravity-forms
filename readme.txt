@@ -1,7 +1,7 @@
 === Sugar Event Calendar - Gravity Forms Add-On ===
 Author URI: http://pippinsplugins.com
 Plugin URI: http://pippinsplugins.com/sugar-event-calendar-gravity-forms-add-on
-Contributors: mordauk, sksmatt
+Contributors: mordauk
 Donate link: http://pippinsplugins.com/support-the-site
 Tags: Gravity Forms, Events, Event Calendar, Sugar Event Calendar, Pippin Williamson, Pippin's Plugins, pippinsplugins, gravityforms
 Requires at least: 3.2
