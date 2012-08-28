@@ -12,11 +12,11 @@ Adds Gravity Forms integration to Sugar Event Calendar, great for event registra
 
 == Description ==
 
-[Sugar Event Calendar](pippinsplugins.com/sugar-event-calendar) is a a simple, elegant Event Calendar plugin for WordPress that keeps event management incredibly simply. This is an add-on plugin for Sugar Event Calendar that lets you easily display a Gravity Forms form on the event details page.
+[Sugar Event Calendar](http://pippinsplugins.com/sugar-event-calendar) is a a simple, elegant Event Calendar plugin for WordPress that keeps event management incredibly simply. This is an add-on plugin for Sugar Event Calendar that lets you easily display a Gravity Forms form on the event details page.
 
 The benefit of this add-on is that you can utilize the tremendous power of Gravity Forms to create complex event registration or attendance forms, including payment options, while keeping the event management itself extremely simple and light weight.
 
-This plugin requires both [Sugar Event Calendar](pippinsplugins.com/sugar-event-calendar) and [Gravity Forms](http://www.gravityforms.com/).
+This plugin requires both [Sugar Event Calendar](http://pippinsplugins.com/sugar-event-calendar) and [Gravity Forms](http://www.gravityforms.com/).
 
 == Installation ==
 
